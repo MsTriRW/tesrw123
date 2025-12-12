@@ -1,5 +1,5 @@
 ---
 deployment:
-tasks:
-- export DEPLOYPATH=/home/admrwn3/public_html/
-- /bin/cp -r * $DEPLOYPATH
+  tasks:
+    - export DEPLOYPATH=/home/admrwn3/public_html/
+    - /bin/cp tes.php $DEPLOYPATH
