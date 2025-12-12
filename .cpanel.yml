@@ -1,5 +1,5 @@
 ---
 deployment:
 tasks:
-- export DEPLOYPATH=/home/sdnj8935/repositories/tesrw123
+- export DEPLOYPATH=/home/sdnj8935/public_html/
 - /bin/cp -r * $DEPLOYPATH
